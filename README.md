@@ -29,8 +29,6 @@ Item Detail
 Checkout / Payment Selection
 Order / Swap Confirmation
 
-(Screenshots below — replace this line with your exported PNGs, one per screen, e.g. ![Browse and Search](screens/03-browse-search.png))
-
 Who This Is For
 Movers — fast, low-friction listing before relocating.
 Students — budget-first, verified-real, correctly sized for small rooms.
