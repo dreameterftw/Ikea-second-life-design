@@ -3,7 +3,7 @@
 Second Life — IKEA India Peer-to-Peer Resale Marketplace
 
 Track: Sustainability Concept: A peer-to-peer secondhand furniture resale & swap marketplace, built inside the existing IKEA app.
-
+ 
 The Idea
 
 IKEA already runs a real Buy Back & Resell program — bring furniture to store, get a graded refund-card credit, they resell it. Second Life is that program's little sibling: instead of you → IKEA, it's you → your neighbour, with IKEA providing the trust rails in between (authenticity verification, condition standards, and safe store pickup) rather than reinventing peer-to-peer resale from scratch the way OLX or Facebook Marketplace do.
